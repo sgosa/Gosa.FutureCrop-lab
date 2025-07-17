@@ -1,0 +1,12 @@
+<div class="container">
+  <h1>FutureCrop Lab</h1>
+  <p class="lead">Engineering the Future of Agriculture</p>
+  <hr />
+  <h2>Latest News</h2>
+  {% for item in site.data.news limit:5 %}
+    <div>
+      <h4>{{ item.title }}</h4>
+      <p>{{ item.content }}</p>
+    </div>
+  {% endfor %}
+</div>
