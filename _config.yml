@@ -1,10 +1,13 @@
-title: FutureCrop Lab
-email: futurecrop@youruniversity.edu
+title: Gosa.FutureCrop Lab
+email: sanbon.gosa@gmail.com
 description: >
-  The FutureCrop Lab pioneers interdisciplinary research at the nexus of crop biology, AI, and synthetic systems to reimagine agriculture for a sustainable future.
-baseurl: ""
-url: "https://your_username.github.io/futurecrop-lab"
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
+  ---
+layout: page
+title: About
+permalink: /about/
+---
+
+## About FutureCrop Lab
+
+🚧 **This page is under construction.**  
+Please check back soon!
