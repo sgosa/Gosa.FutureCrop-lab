@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: About
+permalink: /about/
 ---
 
-## Contact Us
+## About FutureCrop Lab
 
-**FutureCrop Lab**  
-Department of Plant Sciences  
-[Your University]  
-123 Research Drive  
-City, State, Zip Code
-
-📧 futurecrop@youruniversity.edu  
-🌐 [your_username.github.io/futurecrop-lab](https://your_username.github.io/futurecrop-lab)
+🚧 **This page is under construction.**  
+Please check back soon!
