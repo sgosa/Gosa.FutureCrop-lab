@@ -1,13 +1,7 @@
-- authors: SG, Sharma P, Torres M
-  year: 2024
-  title: AI-Guided Trait Prediction from High-Throughput Phenomics
-  journal: Nature Plants
-  url: https://doi.org/xxx
+- authors:   Gosa, Grunwal et al
+  year: 2022
+  title: Out of the blue: Phototropins of the leaf vascular bundle sheath mediate the regulation of leaf hydraulic conductance by blue light
+  journal: The Plant Cell
+  url: https://doi.org/10.1093/plcell/koac089
   highlight: 1
 
-- authors: Torres M, SG
-  year: 2023
-  title: Synthetic Circuits for Dynamic Trait Regulation in Crops
-  journal: Plant Biotechnology Journal
-  url: https://doi.org/xxx
-  highlight: 0
