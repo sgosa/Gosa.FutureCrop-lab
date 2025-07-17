@@ -1,14 +1,10 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: About
+permalink: /about/
 ---
 
-## Our Team
+## About FutureCrop Lab
 
-{% for member in site.data.team %}
-### {{ member.name }}
-**Role:** {{ member.position }}  
-**Email:** {{ member.email }}  
-{{ member.bio }}
-{% endfor %}
+🚧 **This page is under construction.**  
+Please check back soon!
